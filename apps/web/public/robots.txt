@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://auditseo.digitalagence.fr/sitemap.xml
